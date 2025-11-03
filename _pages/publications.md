@@ -35,7 +35,7 @@ A full, up-to-date publication list is available on [**Google Scholar**](https:/
 
 **[17]** Ma, H., **Yang, Y.**, Zhang, Y., Li, Z., Zhang, K., Xue, Z., Zhan, J., & Chen, Z. (2022). *Optimized schemes of enhanced shale gas recovery by CO₂–N₂ mixtures associated with CO₂ sequestration.* **Energy Conversion and Management**, 268, 116062. 
 
-**[16]** **Yang, Y.**, Liu, S., & Clarkson, C. (2022). *Quantification of Temperature-Dependent Sorption Isotherms in Shale Gas Reservoirs: Experiment and Theory.* **SPE Journal**,  27(05), 3001–3019..  
+**[16]** **Yang, Y.**, Liu, S., & Clarkson, C. (2022). *Quantification of Temperature-Dependent Sorption Isotherms in Shale Gas Reservoirs: Experiment and Theory.* **SPE Journal**,  27(05), 3001–3019.
 
 ---
 
